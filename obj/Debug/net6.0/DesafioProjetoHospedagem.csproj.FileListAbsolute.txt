@@ -1,0 +1,15 @@
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/bin/Debug/net6.0/DesafioProjetoHospedagem
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/refint/DesafioProjetoHospedagem.dll
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/home/sirnivass/Documentos/GIT/Dio/WEX/trilha-net-explorando-desafio/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
